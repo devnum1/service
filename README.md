@@ -9,16 +9,6 @@
 Copyright 2018, 2019, 2020, 2021, 2022, 2023, 2024 Ardan Labs  
 hello@ardanlabs.com
 
-## My Information
-
-```
-Name:    Bill Kennedy  
-Company: Ardan Labs  
-Title:   Managing Partner  
-Email:   bill@ardanlabs.com  
-Twitter: goinggodotnet  
-```
-
 ## Description
 
 _"As a program evolves and acquires more features, it becomes complicated, with subtle dependencies between components. Over time, complexity accumulates, and it becomes harder and harder for programmers to keep all the relevant factors in their minds as they modify the system. This slows down development and leads to bugs, which slow development even more and add to its cost. Complexity increases inevitably over the life of any program. The larger the program, and the more people that work on it, the more difficult it is to manage complexity."_ - John Ousterhout  
@@ -128,13 +118,6 @@ $ make statsviz
 # Shut Project
 $ make dev-down
 ```
-
-## Purchase Video
-
-The entire training class has been recorded to be made available to those who can't have the class taught at their company or who can't attend a conference. This is the entire class material.
-
-[ardanlabs.com/education](https://www.ardanlabs.com/education/)
-
 ## Our Experience
 
 We have taught Go to thousands of developers all around the world since 2014. There is no other company that has been doing it longer and our material has proven to help jump-start developers 6 to 12 months ahead of their knowledge of Go. We know what knowledge developers need in order to be productive and efficient when writing software in Go.
@@ -238,14 +221,3 @@ The material has been designed to be taught in a classroom environment. The code
 	* Has worked with a command shell.
 	* Knows how to maneuver around the file system.
 	* Understands what environment variables are.
-
-## Joining the Go Slack Community
-
-We use a Slack channel to share links, code, and examples during the training.  This is free.  This is also the same Slack community you will use after training to ask for help and interact with may Go experts around the world in the community.
-
-1. Using the following link, fill out your name and email address: https://invite.slack.gobridge.org
-1. Check your email, and follow the link to the slack application.
-1. Join the training channel by clicking on this link: https://gophers.slack.com/messages/training/
-1. Click the “Join Channel” button at the bottom of the screen.
-___
-All material is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/LICENSE-2.0).
